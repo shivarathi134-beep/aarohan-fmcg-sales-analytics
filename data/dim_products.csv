@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,pack_size,unit_cost,list_price
+P001,Classic Tea 250g,Beverages,Aarohan Select,250 g,58,95
+P002,Premium Tea 500g,Beverages,Aarohan Select,500 g,118,195
+P003,Instant Coffee 100g,Beverages,Aarohan Select,100 g,82,135
+P004,Mango Drink 1L,Beverages,Aarohan Fresh,1 L,34,60
+P005,Lemon Drink 500ml,Beverages,Aarohan Fresh,500 ml,17,30
+P006,Salted Chips 50g,Snacks,CrunchUp,50 g,9,18
+P007,Masala Chips 100g,Snacks,CrunchUp,100 g,18,35
+P008,Sweet Biscuits 200g,Snacks,CrunchUp,200 g,21,40
+P009,Cream Biscuits 150g,Snacks,CrunchUp,150 g,16,32
+P010,Wheat Flour 5kg,Staples,Daily Harvest,5 kg,142,195
+P011,Rice 5kg,Staples,Daily Harvest,5 kg,205,275
+P012,Pulses Mix 1kg,Staples,Daily Harvest,1 kg,82,125
+P013,Cooking Oil 1L,Staples,Daily Harvest,1 L,103,145
+P014,Bath Soap 100g,Personal Care,Aarohan Care,100 g,19,35
+P015,Shampoo 180ml,Personal Care,Aarohan Care,180 ml,67,110
+P016,Toothpaste 150g,Personal Care,Aarohan Care,150 g,48,80
+P017,Laundry Powder 1kg,Home Care,HomeBright,1 kg,56,95
+P018,Dishwash Liquid 500ml,Home Care,HomeBright,500 ml,31,55
+P019,Floor Cleaner 1L,Home Care,HomeBright,1 L,48,85
+P020,Tissue Pack 6 rolls,Home Care,HomeBright,6 rolls,72,120

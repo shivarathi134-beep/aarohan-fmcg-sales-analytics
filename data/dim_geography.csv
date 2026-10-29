@@ -1,0 +1,17 @@
+geography_id,state_name,region_name
+G001,Delhi,North
+G002,Uttar Pradesh,North
+G003,Haryana,North
+G004,Punjab,North
+G005,Rajasthan,North
+G006,Maharashtra,West
+G007,Gujarat,West
+G008,Goa,West
+G009,Karnataka,South
+G010,Tamil Nadu,South
+G011,Telangana,South
+G012,Kerala,South
+G013,West Bengal,East
+G014,Bihar,East
+G015,Odisha,East
+G016,Assam,East

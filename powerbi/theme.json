@@ -1,0 +1,45 @@
+{
+  "name": "Aarohan Executive Navy Teal",
+  "dataColors": [
+    "#087E8B",
+    "#3772FF",
+    "#7455D9",
+    "#F4A259",
+    "#169873",
+    "#D94F4F",
+    "#4F6D8A",
+    "#B0C4DE"
+  ],
+  "background": "#F3F6FA",
+  "foreground": "#1C2838",
+  "tableAccent": "#087E8B",
+  "good": "#169873",
+  "neutral": "#F4A259",
+  "bad": "#D94F4F",
+  "maximum": "#087E8B",
+  "center": "#F4A259",
+  "minimum": "#D94F4F",
+  "null": "#D9E1EA",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Aptos Display",
+      "fontSize": 28,
+      "color": "#15243A"
+    },
+    "title": {
+      "fontFace": "Aptos Display",
+      "fontSize": 13,
+      "color": "#15243A"
+    },
+    "header": {
+      "fontFace": "Aptos",
+      "fontSize": 11,
+      "color": "#1C2838"
+    },
+    "label": {
+      "fontFace": "Aptos",
+      "fontSize": 10,
+      "color": "#6C7A8B"
+    }
+  }
+}

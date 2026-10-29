@@ -1,0 +1,25 @@
+check,result,status
+Raw rows,30060.0,PASS
+Exact duplicate rows,60.0,PASS
+Clean rows,30000.0,PASS
+Unique order_line_id after deduplication,30000.0,PASS
+Missing required order_id,0.0,PASS
+Missing required order_date,0.0,PASS
+Missing required product_id,0.0,PASS
+Missing required customer_id,0.0,PASS
+Missing required quantity,0.0,PASS
+Missing required unit_price,0.0,PASS
+Missing required discount_pct,0.0,PASS
+Non-positive quantity rows,0.0,PASS
+Non-positive unit price rows,0.0,PASS
+Discount outside 0–25%,0.0,PASS
+Return units below zero,0.0,PASS
+Return units exceed quantity,0.0,PASS
+Returned rows missing reason/date,0.0,PASS
+Unmatched product_id,0.0,PASS
+Unmatched customer_id,0.0,PASS
+Unmatched distributor_id,0.0,PASS
+Unmatched geography_id,0.0,PASS
+Unmatched channel_id,0.0,PASS
+Sales math consistency,0.0,PASS
+Net sales reconciliation,7.450580596923828e-09,PASS

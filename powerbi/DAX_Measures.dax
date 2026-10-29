@@ -1,0 +1,82 @@
+-- Aarohan Consumer Products | Power BI DAX measure library
+-- Model table names in Power BI: FactOrders, DimDate, DimProducts, DimGeography,
+-- DimChannels, DimCustomers, DimDistributors.
+-- Monetary values are unspecified currency units. Profit is ESTIMATED per docs/Methodology.
+
+-- Core reconciliation measures: use the exact fields emitted by the Python pipeline.
+Gross Sales = SUM(FactOrders[gross_sales])
+Discount Amount = SUM(FactOrders[discount_amount])
+Net Sales Before Returns = SUM(FactOrders[net_sales_pre_returns])
+Estimated Return Value = SUM(FactOrders[return_value_est])
+Estimated Net Sales = SUM(FactOrders[net_sales_after_returns_est])
+Estimated COGS = SUM(FactOrders[cogs_net_units_est])
+Estimated Profit = SUM(FactOrders[profit_est])
+Estimated Profit Margin % = DIVIDE([Estimated Profit], [Estimated Net Sales])
+
+-- Commercial volume / order metrics.
+Units Ordered = SUM(FactOrders[quantity])
+Returned Units = SUM(FactOrders[return_units])
+Unit Return Rate % = DIVIDE([Returned Units], [Units Ordered])
+Distinct Orders = DISTINCTCOUNT(FactOrders[order_id])
+Distinct Order Lines = DISTINCTCOUNT(FactOrders[order_line_id])
+Average Order Value = DIVIDE([Estimated Net Sales], [Distinct Orders])
+Average Line Discount % = AVERAGE(FactOrders[discount_pct])
+Weighted Discount % = DIVIDE([Discount Amount], [Gross Sales])
+Return Value % of Gross Sales = DIVIDE([Estimated Return Value], [Gross Sales])
+
+-- Mix / contribution measures. These denominator definitions intentionally keep
+-- current non-product slicers, while removing the product/category filter only.
+Sales Contribution % =
+DIVIDE(
+    [Estimated Net Sales],
+    CALCULATE([Estimated Net Sales], REMOVEFILTERS(DimProducts[product_name]))
+)
+Category Sales Contribution % =
+DIVIDE(
+    [Estimated Net Sales],
+    CALCULATE([Estimated Net Sales], REMOVEFILTERS(DimProducts[category]))
+)
+Profit Contribution % =
+DIVIDE(
+    [Estimated Profit],
+    CALCULATE([Estimated Profit], REMOVEFILTERS(DimProducts[product_name]))
+)
+
+-- Time-intelligence measures: DimDate must be marked as the date table and its
+-- date_value relationship to FactOrders[order_date] must be active.
+Prior Year Net Sales =
+CALCULATE([Estimated Net Sales], SAMEPERIODLASTYEAR(DimDate[date_value]))
+Sales Growth % =
+DIVIDE([Estimated Net Sales] - [Prior Year Net Sales], [Prior Year Net Sales])
+Prior Year Estimated Profit =
+CALCULATE([Estimated Profit], SAMEPERIODLASTYEAR(DimDate[date_value]))
+Profit Growth % =
+DIVIDE([Estimated Profit] - [Prior Year Estimated Profit], [Prior Year Estimated Profit])
+Previous Month Net Sales =
+CALCULATE([Estimated Net Sales], DATEADD(DimDate[date_value], -1, MONTH))
+Month-on-Month Sales Growth % =
+DIVIDE([Estimated Net Sales] - [Previous Month Net Sales], [Previous Month Net Sales])
+
+-- Derived independently from quantity, discount and product unit-cost lookup.
+-- Use as a modelling cross-check, not as a separate accounting policy.
+Recalculated Net Sales =
+SUMX(
+    FactOrders,
+    FactOrders[quantity] * FactOrders[unit_price] * (1 - FactOrders[discount_pct])
+        - FactOrders[return_units] * FactOrders[unit_price] * (1 - FactOrders[discount_pct])
+)
+Recalculated COGS =
+SUMX(
+    FactOrders,
+    (FactOrders[quantity] - FactOrders[return_units])
+        * RELATED(DimProducts[unit_cost])
+)
+Recalculated Estimated Profit = [Recalculated Net Sales] - [Recalculated COGS]
+Recalculated Profit Margin % = DIVIDE([Recalculated Estimated Profit], [Recalculated Net Sales])
+
+-- Dynamic title suitable for the executive page.
+Executive Page Title =
+VAR SelectedYear = SELECTEDVALUE(DimDate[year_num])
+RETURN
+    "AAROHAN | FMCG PERFORMANCE" &
+    IF(NOT ISBLANK(SelectedYear), " | " & FORMAT(SelectedYear, "0"), " | ALL SELECTED PERIODS")

@@ -1,0 +1,18 @@
+Analysis complete. Outputs were refreshed from the bundled synthetic source data.
+Raw rows=30,060; exact duplicates=60; clean lines=30,000; unique orders=18,000
+Estimated net sales=41,546,999.57; estimated profit=12,257,592.57; estimated margin=29.50%; unit return rate=3.15%
+Validation checks: 24 PASS, 0 REVIEW, 0 FAIL
+Top 5 products by estimated profit:
+       product_name  net_sales_after_returns_est   profit_est
+   Premium Tea 500g                 4133091.8535 1360563.8535
+           Rice 5kg                 6132530.9912 1085020.9912
+Instant Coffee 100g                 2889483.4061  944853.4061
+Tissue Pack 6 rolls                 2520360.1654  853560.1654
+    Wheat Flour 5kg                 4164583.0839  811111.0839
+Bottom 5 products by estimated profit (not loss-making in this dataset):
+       product_name  net_sales_after_returns_est  profit_est
+   Salted Chips 50g                  380094.0147 169224.0147
+  Lemon Drink 500ml                  593682.4424 221144.4424
+Cream Biscuits 150g                  654342.8166 290582.8166
+     Bath Soap 100g                  755358.2329 302303.2329
+  Masala Chips 100g                  769489.5925 332359.5925

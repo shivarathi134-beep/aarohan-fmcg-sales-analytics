@@ -1,0 +1,25 @@
+check,actual,expected,status,note
+Raw rows,30060.0,30060.0,PASS,Expected synthetic baseline row count
+Exact duplicate rows,60.0,60.0,PASS,Only exact duplicates are removed
+Clean rows,30000.0,30000.0,PASS,Analytical copy after deduplication
+Unique order_line_id after deduplication,30000.0,30000.0,PASS,Business key should be unique
+Missing required order_id,0.0,0.0,PASS,Required field
+Missing required order_date,0.0,0.0,PASS,Required field
+Missing required product_id,0.0,0.0,PASS,Required field
+Missing required customer_id,0.0,0.0,PASS,Required field
+Missing required quantity,0.0,0.0,PASS,Required field
+Missing required unit_price,0.0,0.0,PASS,Required field
+Missing required discount_pct,0.0,0.0,PASS,Required field
+Non-positive quantity rows,0.0,0.0,PASS,Quantity must be positive
+Non-positive unit price rows,0.0,0.0,PASS,Unit price must be positive
+Discount outside 0–25%,0.0,0.0,PASS,Synthetic business rule
+Return units below zero,0.0,0.0,PASS,Returned units cannot be negative
+Return units exceed quantity,0.0,0.0,PASS,Returned units cannot exceed line quantity
+Returned rows missing reason/date,0.0,0.0,PASS,Conditional fields required when returns exist
+Unmatched product_id,0.0,0.0,PASS,Foreign-key lookup to dimension
+Unmatched customer_id,0.0,0.0,PASS,Foreign-key lookup to dimension
+Unmatched distributor_id,0.0,0.0,PASS,Foreign-key lookup to dimension
+Unmatched geography_id,0.0,0.0,PASS,Foreign-key lookup to dimension
+Unmatched channel_id,0.0,0.0,PASS,Foreign-key lookup to dimension
+Sales math consistency,0.0,0.0,PASS,Gross sales = quantity × unit price
+Net sales reconciliation,7.450580596923828e-09,0.0,PASS,Net sales after returns reconciliation

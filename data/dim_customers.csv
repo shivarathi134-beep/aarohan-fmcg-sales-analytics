@@ -1,0 +1,1001 @@
+customer_id,customer_name,customer_segment,customer_type
+C0001,Tara Khan Stores 001,Wholesaler,Business Customer
+C0002,Ishita Bose Stores 002,Supermarket,Business Customer
+C0003,Myra Yadav Stores 003,Large Retailer,Business Customer
+C0004,Kabir Patel Stores 004,Small Retailer,Business Customer
+C0005,Sana Khan Stores 005,Small Retailer,Business Customer
+C0006,Aditya Joshi Stores 006,Small Retailer,Business Customer
+C0007,Dev Yadav Stores 007,Wholesaler,Business Customer
+C0008,Ishita Khan Stores 008,Small Retailer,Business Customer
+C0009,Kabir Gupta Stores 009,Supermarket,Business Customer
+C0010,Ishita Patel Stores 010,Wholesaler,Business Customer
+C0011,Tara Mehta Stores 011,Large Retailer,Business Customer
+C0012,Aditya Singh Stores 012,Supermarket,Business Customer
+C0013,Arjun Yadav Stores 013,Small Retailer,Business Customer
+C0014,Aarav Verma Stores 014,Small Retailer,Business Customer
+C0015,Aarav Gupta Stores 015,Small Retailer,Business Customer
+C0016,Myra Yadav Stores 016,Small Retailer,Business Customer
+C0017,Arjun Reddy Stores 017,Large Retailer,Business Customer
+C0018,Dev Patel Stores 018,Large Retailer,Business Customer
+C0019,Kiara Patel Stores 019,Large Retailer,Business Customer
+C0020,Diya Singh Stores 020,Small Retailer,Business Customer
+C0021,Avni Mishra Stores 021,Small Retailer,Business Customer
+C0022,Aditya Rao Stores 022,Supermarket,Business Customer
+C0023,Aditya Gupta Stores 023,Small Retailer,Business Customer
+C0024,Myra Malhotra Stores 024,Small Retailer,Business Customer
+C0025,Myra Singh Stores 025,Large Retailer,Business Customer
+C0026,Sana Bose Stores 026,Wholesaler,Business Customer
+C0027,Aarav Nair Stores 027,Supermarket,Business Customer
+C0028,Kunal Gupta Stores 028,Large Retailer,Business Customer
+C0029,Aarav Nair Stores 029,Small Retailer,Business Customer
+C0030,Ishita Saxena Stores 030,Large Retailer,Business Customer
+C0031,Diya Reddy Stores 031,Large Retailer,Business Customer
+C0032,Rohan Nair Stores 032,Wholesaler,Business Customer
+C0033,Sana Malhotra Stores 033,Wholesaler,Business Customer
+C0034,Reyansh Patel Stores 034,Large Retailer,Business Customer
+C0035,Ishita Das Stores 035,Small Retailer,Business Customer
+C0036,Avni Bose Stores 036,Large Retailer,Business Customer
+C0037,Ishita Gupta Stores 037,Large Retailer,Business Customer
+C0038,Dev Joshi Stores 038,Small Retailer,Business Customer
+C0039,Rohan Joshi Stores 039,Large Retailer,Business Customer
+C0040,Diya Singh Stores 040,Wholesaler,Business Customer
+C0041,Aarav Malhotra Stores 041,Wholesaler,Business Customer
+C0042,Kabir Mishra Stores 042,Small Retailer,Business Customer
+C0043,Kiara Saxena Stores 043,Supermarket,Business Customer
+C0044,Ananya Nair Stores 044,Wholesaler,Business Customer
+C0045,Rohan Patel Stores 045,Wholesaler,Business Customer
+C0046,Reyansh Joshi Stores 046,Supermarket,Business Customer
+C0047,Ishaan Patel Stores 047,Small Retailer,Business Customer
+C0048,Ananya Rao Stores 048,Large Retailer,Business Customer
+C0049,Sana Das Stores 049,Small Retailer,Business Customer
+C0050,Rohan Malhotra Stores 050,Wholesaler,Business Customer
+C0051,Vivaan Mishra Stores 051,Wholesaler,Business Customer
+C0052,Dev Patel Stores 052,Wholesaler,Business Customer
+C0053,Aarav Joshi Stores 053,Wholesaler,Business Customer
+C0054,Aditya Singh Stores 054,Small Retailer,Business Customer
+C0055,Reyansh Nair Stores 055,Supermarket,Business Customer
+C0056,Rohan Saxena Stores 056,Large Retailer,Business Customer
+C0057,Ishaan Saxena Stores 057,Wholesaler,Business Customer
+C0058,Reyansh Yadav Stores 058,Small Retailer,Business Customer
+C0059,Kabir Das Stores 059,Supermarket,Business Customer
+C0060,Vivaan Sharma Stores 060,Wholesaler,Business Customer
+C0061,Rohan Verma Stores 061,Small Retailer,Business Customer
+C0062,Tara Joshi Stores 062,Small Retailer,Business Customer
+C0063,Aanya Singh Stores 063,Wholesaler,Business Customer
+C0064,Sana Bose Stores 064,Large Retailer,Business Customer
+C0065,Aanya Patel Stores 065,Small Retailer,Business Customer
+C0066,Kabir Kapoor Stores 066,Small Retailer,Business Customer
+C0067,Kunal Patel Stores 067,Supermarket,Business Customer
+C0068,Diya Rao Stores 068,Supermarket,Business Customer
+C0069,Aanya Joshi Stores 069,Large Retailer,Business Customer
+C0070,Aditya Nair Stores 070,Large Retailer,Business Customer
+C0071,Aanya Khan Stores 071,Supermarket,Business Customer
+C0072,Meera Mishra Stores 072,Supermarket,Business Customer
+C0073,Diya Saxena Stores 073,Wholesaler,Business Customer
+C0074,Vivaan Malhotra Stores 074,Small Retailer,Business Customer
+C0075,Aditya Gupta Stores 075,Supermarket,Business Customer
+C0076,Vivaan Rao Stores 076,Wholesaler,Business Customer
+C0077,Ananya Mehta Stores 077,Large Retailer,Business Customer
+C0078,Ishaan Gupta Stores 078,Large Retailer,Business Customer
+C0079,Reyansh Khan Stores 079,Large Retailer,Business Customer
+C0080,Rohan Das Stores 080,Wholesaler,Business Customer
+C0081,Tara Mishra Stores 081,Large Retailer,Business Customer
+C0082,Ananya Das Stores 082,Small Retailer,Business Customer
+C0083,Dev Gupta Stores 083,Large Retailer,Business Customer
+C0084,Ishita Khan Stores 084,Wholesaler,Business Customer
+C0085,Arjun Sharma Stores 085,Small Retailer,Business Customer
+C0086,Kabir Nair Stores 086,Small Retailer,Business Customer
+C0087,Meera Mehta Stores 087,Large Retailer,Business Customer
+C0088,Tara Das Stores 088,Large Retailer,Business Customer
+C0089,Myra Yadav Stores 089,Small Retailer,Business Customer
+C0090,Myra Verma Stores 090,Wholesaler,Business Customer
+C0091,Reyansh Gupta Stores 091,Small Retailer,Business Customer
+C0092,Myra Patel Stores 092,Wholesaler,Business Customer
+C0093,Aanya Saxena Stores 093,Large Retailer,Business Customer
+C0094,Meera Saxena Stores 094,Large Retailer,Business Customer
+C0095,Kiara Singh Stores 095,Wholesaler,Business Customer
+C0096,Sana Joshi Stores 096,Small Retailer,Business Customer
+C0097,Ishaan Bose Stores 097,Small Retailer,Business Customer
+C0098,Avni Khan Stores 098,Large Retailer,Business Customer
+C0099,Dev Verma Stores 099,Small Retailer,Business Customer
+C0100,Aditya Khan Stores 100,Large Retailer,Business Customer
+C0101,Tara Das Stores 101,Supermarket,Business Customer
+C0102,Ananya Saxena Stores 102,Large Retailer,Business Customer
+C0103,Diya Das Stores 103,Wholesaler,Business Customer
+C0104,Aditya Khan Stores 104,Supermarket,Business Customer
+C0105,Kunal Mehta Stores 105,Supermarket,Business Customer
+C0106,Reyansh Sharma Stores 106,Large Retailer,Business Customer
+C0107,Sana Bose Stores 107,Small Retailer,Business Customer
+C0108,Tara Kapoor Stores 108,Wholesaler,Business Customer
+C0109,Kunal Singh Stores 109,Wholesaler,Business Customer
+C0110,Kabir Gupta Stores 110,Wholesaler,Business Customer
+C0111,Ishita Saxena Stores 111,Wholesaler,Business Customer
+C0112,Diya Mishra Stores 112,Small Retailer,Business Customer
+C0113,Aanya Kapoor Stores 113,Small Retailer,Business Customer
+C0114,Ishita Nair Stores 114,Small Retailer,Business Customer
+C0115,Arjun Das Stores 115,Small Retailer,Business Customer
+C0116,Dev Bose Stores 116,Large Retailer,Business Customer
+C0117,Ishita Reddy Stores 117,Small Retailer,Business Customer
+C0118,Reyansh Saxena Stores 118,Small Retailer,Business Customer
+C0119,Ananya Mishra Stores 119,Wholesaler,Business Customer
+C0120,Ishaan Singh Stores 120,Supermarket,Business Customer
+C0121,Ananya Verma Stores 121,Wholesaler,Business Customer
+C0122,Dev Nair Stores 122,Large Retailer,Business Customer
+C0123,Aditya Mishra Stores 123,Large Retailer,Business Customer
+C0124,Myra Saxena Stores 124,Large Retailer,Business Customer
+C0125,Myra Khan Stores 125,Supermarket,Business Customer
+C0126,Vivaan Mehta Stores 126,Large Retailer,Business Customer
+C0127,Rohan Mishra Stores 127,Large Retailer,Business Customer
+C0128,Avni Bose Stores 128,Supermarket,Business Customer
+C0129,Kunal Saxena Stores 129,Wholesaler,Business Customer
+C0130,Ananya Joshi Stores 130,Small Retailer,Business Customer
+C0131,Meera Malhotra Stores 131,Large Retailer,Business Customer
+C0132,Diya Khan Stores 132,Large Retailer,Business Customer
+C0133,Arjun Singh Stores 133,Small Retailer,Business Customer
+C0134,Reyansh Nair Stores 134,Small Retailer,Business Customer
+C0135,Vivaan Nair Stores 135,Large Retailer,Business Customer
+C0136,Ishita Nair Stores 136,Large Retailer,Business Customer
+C0137,Myra Gupta Stores 137,Small Retailer,Business Customer
+C0138,Reyansh Reddy Stores 138,Large Retailer,Business Customer
+C0139,Dev Joshi Stores 139,Small Retailer,Business Customer
+C0140,Rohan Das Stores 140,Supermarket,Business Customer
+C0141,Myra Joshi Stores 141,Large Retailer,Business Customer
+C0142,Reyansh Rao Stores 142,Wholesaler,Business Customer
+C0143,Ananya Malhotra Stores 143,Small Retailer,Business Customer
+C0144,Kabir Saxena Stores 144,Small Retailer,Business Customer
+C0145,Ishita Reddy Stores 145,Supermarket,Business Customer
+C0146,Arjun Patel Stores 146,Wholesaler,Business Customer
+C0147,Aarav Khan Stores 147,Wholesaler,Business Customer
+C0148,Ananya Khan Stores 148,Small Retailer,Business Customer
+C0149,Aditya Saxena Stores 149,Small Retailer,Business Customer
+C0150,Aanya Nair Stores 150,Small Retailer,Business Customer
+C0151,Ishita Nair Stores 151,Supermarket,Business Customer
+C0152,Avni Bose Stores 152,Large Retailer,Business Customer
+C0153,Aarav Malhotra Stores 153,Large Retailer,Business Customer
+C0154,Kabir Sharma Stores 154,Small Retailer,Business Customer
+C0155,Ishita Malhotra Stores 155,Small Retailer,Business Customer
+C0156,Ishaan Nair Stores 156,Large Retailer,Business Customer
+C0157,Rohan Gupta Stores 157,Wholesaler,Business Customer
+C0158,Ananya Malhotra Stores 158,Small Retailer,Business Customer
+C0159,Dev Mehta Stores 159,Small Retailer,Business Customer
+C0160,Sana Reddy Stores 160,Large Retailer,Business Customer
+C0161,Kiara Verma Stores 161,Wholesaler,Business Customer
+C0162,Kunal Bose Stores 162,Small Retailer,Business Customer
+C0163,Ananya Malhotra Stores 163,Small Retailer,Business Customer
+C0164,Tara Patel Stores 164,Large Retailer,Business Customer
+C0165,Kabir Patel Stores 165,Large Retailer,Business Customer
+C0166,Sana Singh Stores 166,Wholesaler,Business Customer
+C0167,Sana Rao Stores 167,Wholesaler,Business Customer
+C0168,Kunal Khan Stores 168,Small Retailer,Business Customer
+C0169,Ishita Reddy Stores 169,Small Retailer,Business Customer
+C0170,Meera Khan Stores 170,Small Retailer,Business Customer
+C0171,Ananya Reddy Stores 171,Small Retailer,Business Customer
+C0172,Meera Rao Stores 172,Large Retailer,Business Customer
+C0173,Aarav Nair Stores 173,Supermarket,Business Customer
+C0174,Reyansh Kapoor Stores 174,Wholesaler,Business Customer
+C0175,Sana Das Stores 175,Large Retailer,Business Customer
+C0176,Avni Kapoor Stores 176,Supermarket,Business Customer
+C0177,Aarav Rao Stores 177,Wholesaler,Business Customer
+C0178,Arjun Verma Stores 178,Wholesaler,Business Customer
+C0179,Ananya Reddy Stores 179,Supermarket,Business Customer
+C0180,Ishita Khan Stores 180,Small Retailer,Business Customer
+C0181,Sana Sharma Stores 181,Small Retailer,Business Customer
+C0182,Aarav Das Stores 182,Small Retailer,Business Customer
+C0183,Vivaan Joshi Stores 183,Small Retailer,Business Customer
+C0184,Tara Khan Stores 184,Small Retailer,Business Customer
+C0185,Rohan Patel Stores 185,Large Retailer,Business Customer
+C0186,Ishita Singh Stores 186,Small Retailer,Business Customer
+C0187,Ishita Gupta Stores 187,Wholesaler,Business Customer
+C0188,Vivaan Khan Stores 188,Small Retailer,Business Customer
+C0189,Vivaan Bose Stores 189,Small Retailer,Business Customer
+C0190,Ananya Mehta Stores 190,Wholesaler,Business Customer
+C0191,Tara Mishra Stores 191,Small Retailer,Business Customer
+C0192,Meera Nair Stores 192,Small Retailer,Business Customer
+C0193,Sana Saxena Stores 193,Small Retailer,Business Customer
+C0194,Aarav Bose Stores 194,Large Retailer,Business Customer
+C0195,Avni Das Stores 195,Small Retailer,Business Customer
+C0196,Reyansh Singh Stores 196,Large Retailer,Business Customer
+C0197,Ananya Sharma Stores 197,Small Retailer,Business Customer
+C0198,Arjun Singh Stores 198,Large Retailer,Business Customer
+C0199,Vivaan Nair Stores 199,Large Retailer,Business Customer
+C0200,Ishaan Reddy Stores 200,Small Retailer,Business Customer
+C0201,Ananya Singh Stores 201,Small Retailer,Business Customer
+C0202,Reyansh Verma Stores 202,Wholesaler,Business Customer
+C0203,Diya Saxena Stores 203,Large Retailer,Business Customer
+C0204,Arjun Bose Stores 204,Large Retailer,Business Customer
+C0205,Aanya Verma Stores 205,Small Retailer,Business Customer
+C0206,Aanya Khan Stores 206,Small Retailer,Business Customer
+C0207,Aarav Gupta Stores 207,Large Retailer,Business Customer
+C0208,Diya Khan Stores 208,Wholesaler,Business Customer
+C0209,Ananya Kapoor Stores 209,Large Retailer,Business Customer
+C0210,Kiara Malhotra Stores 210,Wholesaler,Business Customer
+C0211,Kunal Reddy Stores 211,Small Retailer,Business Customer
+C0212,Ishita Rao Stores 212,Large Retailer,Business Customer
+C0213,Aarav Nair Stores 213,Large Retailer,Business Customer
+C0214,Dev Reddy Stores 214,Small Retailer,Business Customer
+C0215,Myra Gupta Stores 215,Small Retailer,Business Customer
+C0216,Arjun Khan Stores 216,Small Retailer,Business Customer
+C0217,Reyansh Rao Stores 217,Small Retailer,Business Customer
+C0218,Sana Sharma Stores 218,Small Retailer,Business Customer
+C0219,Aarav Yadav Stores 219,Large Retailer,Business Customer
+C0220,Reyansh Kapoor Stores 220,Supermarket,Business Customer
+C0221,Kiara Kapoor Stores 221,Supermarket,Business Customer
+C0222,Ishita Yadav Stores 222,Large Retailer,Business Customer
+C0223,Tara Malhotra Stores 223,Small Retailer,Business Customer
+C0224,Kabir Gupta Stores 224,Small Retailer,Business Customer
+C0225,Tara Singh Stores 225,Large Retailer,Business Customer
+C0226,Reyansh Verma Stores 226,Large Retailer,Business Customer
+C0227,Aarav Das Stores 227,Small Retailer,Business Customer
+C0228,Ishaan Rao Stores 228,Large Retailer,Business Customer
+C0229,Tara Joshi Stores 229,Wholesaler,Business Customer
+C0230,Kiara Singh Stores 230,Small Retailer,Business Customer
+C0231,Ishaan Khan Stores 231,Wholesaler,Business Customer
+C0232,Dev Malhotra Stores 232,Large Retailer,Business Customer
+C0233,Aanya Yadav Stores 233,Wholesaler,Business Customer
+C0234,Aditya Mishra Stores 234,Large Retailer,Business Customer
+C0235,Myra Kapoor Stores 235,Large Retailer,Business Customer
+C0236,Ishaan Sharma Stores 236,Wholesaler,Business Customer
+C0237,Vivaan Mehta Stores 237,Supermarket,Business Customer
+C0238,Diya Yadav Stores 238,Large Retailer,Business Customer
+C0239,Rohan Saxena Stores 239,Supermarket,Business Customer
+C0240,Sana Nair Stores 240,Wholesaler,Business Customer
+C0241,Myra Kapoor Stores 241,Small Retailer,Business Customer
+C0242,Tara Malhotra Stores 242,Large Retailer,Business Customer
+C0243,Kunal Yadav Stores 243,Large Retailer,Business Customer
+C0244,Aarav Das Stores 244,Wholesaler,Business Customer
+C0245,Aditya Rao Stores 245,Small Retailer,Business Customer
+C0246,Myra Saxena Stores 246,Large Retailer,Business Customer
+C0247,Ananya Sharma Stores 247,Large Retailer,Business Customer
+C0248,Kiara Gupta Stores 248,Small Retailer,Business Customer
+C0249,Sana Saxena Stores 249,Large Retailer,Business Customer
+C0250,Aanya Mehta Stores 250,Supermarket,Business Customer
+C0251,Tara Rao Stores 251,Large Retailer,Business Customer
+C0252,Sana Singh Stores 252,Small Retailer,Business Customer
+C0253,Ananya Rao Stores 253,Small Retailer,Business Customer
+C0254,Kiara Verma Stores 254,Small Retailer,Business Customer
+C0255,Kunal Khan Stores 255,Small Retailer,Business Customer
+C0256,Avni Mishra Stores 256,Small Retailer,Business Customer
+C0257,Ananya Mishra Stores 257,Small Retailer,Business Customer
+C0258,Kunal Reddy Stores 258,Large Retailer,Business Customer
+C0259,Ishaan Rao Stores 259,Large Retailer,Business Customer
+C0260,Rohan Sharma Stores 260,Small Retailer,Business Customer
+C0261,Aanya Yadav Stores 261,Small Retailer,Business Customer
+C0262,Rohan Nair Stores 262,Large Retailer,Business Customer
+C0263,Kunal Verma Stores 263,Large Retailer,Business Customer
+C0264,Reyansh Joshi Stores 264,Small Retailer,Business Customer
+C0265,Vivaan Gupta Stores 265,Large Retailer,Business Customer
+C0266,Ananya Patel Stores 266,Wholesaler,Business Customer
+C0267,Rohan Patel Stores 267,Wholesaler,Business Customer
+C0268,Kunal Yadav Stores 268,Large Retailer,Business Customer
+C0269,Aditya Rao Stores 269,Wholesaler,Business Customer
+C0270,Tara Patel Stores 270,Small Retailer,Business Customer
+C0271,Arjun Gupta Stores 271,Large Retailer,Business Customer
+C0272,Aarav Singh Stores 272,Small Retailer,Business Customer
+C0273,Reyansh Saxena Stores 273,Small Retailer,Business Customer
+C0274,Ishaan Mehta Stores 274,Large Retailer,Business Customer
+C0275,Aanya Verma Stores 275,Small Retailer,Business Customer
+C0276,Vivaan Saxena Stores 276,Large Retailer,Business Customer
+C0277,Diya Mehta Stores 277,Small Retailer,Business Customer
+C0278,Kunal Joshi Stores 278,Large Retailer,Business Customer
+C0279,Ishita Malhotra Stores 279,Wholesaler,Business Customer
+C0280,Aditya Joshi Stores 280,Small Retailer,Business Customer
+C0281,Sana Gupta Stores 281,Wholesaler,Business Customer
+C0282,Meera Das Stores 282,Large Retailer,Business Customer
+C0283,Diya Sharma Stores 283,Small Retailer,Business Customer
+C0284,Rohan Patel Stores 284,Wholesaler,Business Customer
+C0285,Arjun Saxena Stores 285,Small Retailer,Business Customer
+C0286,Avni Rao Stores 286,Large Retailer,Business Customer
+C0287,Vivaan Mehta Stores 287,Small Retailer,Business Customer
+C0288,Diya Singh Stores 288,Large Retailer,Business Customer
+C0289,Diya Saxena Stores 289,Small Retailer,Business Customer
+C0290,Ishita Malhotra Stores 290,Wholesaler,Business Customer
+C0291,Ishita Bose Stores 291,Small Retailer,Business Customer
+C0292,Dev Sharma Stores 292,Small Retailer,Business Customer
+C0293,Aanya Joshi Stores 293,Wholesaler,Business Customer
+C0294,Sana Rao Stores 294,Wholesaler,Business Customer
+C0295,Aarav Mehta Stores 295,Small Retailer,Business Customer
+C0296,Reyansh Mishra Stores 296,Small Retailer,Business Customer
+C0297,Diya Patel Stores 297,Wholesaler,Business Customer
+C0298,Reyansh Mehta Stores 298,Large Retailer,Business Customer
+C0299,Ishita Rao Stores 299,Small Retailer,Business Customer
+C0300,Reyansh Khan Stores 300,Small Retailer,Business Customer
+C0301,Sana Khan Stores 301,Large Retailer,Business Customer
+C0302,Tara Singh Stores 302,Supermarket,Business Customer
+C0303,Aditya Reddy Stores 303,Small Retailer,Business Customer
+C0304,Dev Yadav Stores 304,Small Retailer,Business Customer
+C0305,Myra Nair Stores 305,Small Retailer,Business Customer
+C0306,Ishita Das Stores 306,Small Retailer,Business Customer
+C0307,Tara Verma Stores 307,Large Retailer,Business Customer
+C0308,Dev Reddy Stores 308,Wholesaler,Business Customer
+C0309,Kunal Verma Stores 309,Small Retailer,Business Customer
+C0310,Dev Yadav Stores 310,Supermarket,Business Customer
+C0311,Aarav Khan Stores 311,Supermarket,Business Customer
+C0312,Aarav Malhotra Stores 312,Wholesaler,Business Customer
+C0313,Ishaan Malhotra Stores 313,Large Retailer,Business Customer
+C0314,Myra Nair Stores 314,Small Retailer,Business Customer
+C0315,Kiara Kapoor Stores 315,Small Retailer,Business Customer
+C0316,Vivaan Rao Stores 316,Small Retailer,Business Customer
+C0317,Kabir Rao Stores 317,Small Retailer,Business Customer
+C0318,Sana Mehta Stores 318,Wholesaler,Business Customer
+C0319,Aanya Patel Stores 319,Small Retailer,Business Customer
+C0320,Aarav Patel Stores 320,Large Retailer,Business Customer
+C0321,Avni Bose Stores 321,Small Retailer,Business Customer
+C0322,Vivaan Reddy Stores 322,Large Retailer,Business Customer
+C0323,Myra Saxena Stores 323,Wholesaler,Business Customer
+C0324,Avni Joshi Stores 324,Large Retailer,Business Customer
+C0325,Kiara Nair Stores 325,Supermarket,Business Customer
+C0326,Kiara Patel Stores 326,Small Retailer,Business Customer
+C0327,Aarav Rao Stores 327,Large Retailer,Business Customer
+C0328,Myra Singh Stores 328,Supermarket,Business Customer
+C0329,Ishita Singh Stores 329,Supermarket,Business Customer
+C0330,Ishita Rao Stores 330,Small Retailer,Business Customer
+C0331,Dev Joshi Stores 331,Small Retailer,Business Customer
+C0332,Kabir Mehta Stores 332,Wholesaler,Business Customer
+C0333,Meera Malhotra Stores 333,Small Retailer,Business Customer
+C0334,Kabir Gupta Stores 334,Small Retailer,Business Customer
+C0335,Sana Sharma Stores 335,Large Retailer,Business Customer
+C0336,Tara Yadav Stores 336,Small Retailer,Business Customer
+C0337,Dev Rao Stores 337,Wholesaler,Business Customer
+C0338,Diya Sharma Stores 338,Small Retailer,Business Customer
+C0339,Rohan Yadav Stores 339,Large Retailer,Business Customer
+C0340,Reyansh Joshi Stores 340,Large Retailer,Business Customer
+C0341,Aditya Reddy Stores 341,Small Retailer,Business Customer
+C0342,Dev Mehta Stores 342,Small Retailer,Business Customer
+C0343,Arjun Yadav Stores 343,Small Retailer,Business Customer
+C0344,Kiara Joshi Stores 344,Large Retailer,Business Customer
+C0345,Aanya Khan Stores 345,Small Retailer,Business Customer
+C0346,Dev Joshi Stores 346,Large Retailer,Business Customer
+C0347,Diya Rao Stores 347,Large Retailer,Business Customer
+C0348,Myra Verma Stores 348,Large Retailer,Business Customer
+C0349,Aanya Patel Stores 349,Small Retailer,Business Customer
+C0350,Myra Mehta Stores 350,Small Retailer,Business Customer
+C0351,Kiara Yadav Stores 351,Large Retailer,Business Customer
+C0352,Avni Yadav Stores 352,Small Retailer,Business Customer
+C0353,Aarav Gupta Stores 353,Small Retailer,Business Customer
+C0354,Kunal Joshi Stores 354,Small Retailer,Business Customer
+C0355,Avni Das Stores 355,Large Retailer,Business Customer
+C0356,Arjun Khan Stores 356,Large Retailer,Business Customer
+C0357,Arjun Mishra Stores 357,Wholesaler,Business Customer
+C0358,Diya Kapoor Stores 358,Small Retailer,Business Customer
+C0359,Avni Mehta Stores 359,Large Retailer,Business Customer
+C0360,Meera Rao Stores 360,Large Retailer,Business Customer
+C0361,Aanya Yadav Stores 361,Small Retailer,Business Customer
+C0362,Kabir Singh Stores 362,Supermarket,Business Customer
+C0363,Meera Sharma Stores 363,Small Retailer,Business Customer
+C0364,Kabir Yadav Stores 364,Small Retailer,Business Customer
+C0365,Ishita Khan Stores 365,Large Retailer,Business Customer
+C0366,Aarav Khan Stores 366,Small Retailer,Business Customer
+C0367,Myra Yadav Stores 367,Large Retailer,Business Customer
+C0368,Tara Malhotra Stores 368,Supermarket,Business Customer
+C0369,Rohan Patel Stores 369,Small Retailer,Business Customer
+C0370,Avni Bose Stores 370,Small Retailer,Business Customer
+C0371,Diya Das Stores 371,Small Retailer,Business Customer
+C0372,Reyansh Bose Stores 372,Small Retailer,Business Customer
+C0373,Kabir Malhotra Stores 373,Wholesaler,Business Customer
+C0374,Rohan Kapoor Stores 374,Small Retailer,Business Customer
+C0375,Diya Joshi Stores 375,Supermarket,Business Customer
+C0376,Reyansh Patel Stores 376,Large Retailer,Business Customer
+C0377,Ishaan Rao Stores 377,Wholesaler,Business Customer
+C0378,Kabir Yadav Stores 378,Small Retailer,Business Customer
+C0379,Sana Verma Stores 379,Large Retailer,Business Customer
+C0380,Ishaan Khan Stores 380,Wholesaler,Business Customer
+C0381,Aanya Verma Stores 381,Small Retailer,Business Customer
+C0382,Diya Khan Stores 382,Large Retailer,Business Customer
+C0383,Tara Saxena Stores 383,Large Retailer,Business Customer
+C0384,Myra Nair Stores 384,Supermarket,Business Customer
+C0385,Vivaan Kapoor Stores 385,Small Retailer,Business Customer
+C0386,Ishaan Das Stores 386,Large Retailer,Business Customer
+C0387,Arjun Reddy Stores 387,Supermarket,Business Customer
+C0388,Sana Verma Stores 388,Wholesaler,Business Customer
+C0389,Kabir Reddy Stores 389,Large Retailer,Business Customer
+C0390,Arjun Das Stores 390,Wholesaler,Business Customer
+C0391,Ananya Malhotra Stores 391,Supermarket,Business Customer
+C0392,Kabir Sharma Stores 392,Wholesaler,Business Customer
+C0393,Aarav Gupta Stores 393,Wholesaler,Business Customer
+C0394,Myra Yadav Stores 394,Small Retailer,Business Customer
+C0395,Kunal Reddy Stores 395,Large Retailer,Business Customer
+C0396,Kunal Bose Stores 396,Large Retailer,Business Customer
+C0397,Meera Khan Stores 397,Small Retailer,Business Customer
+C0398,Avni Reddy Stores 398,Large Retailer,Business Customer
+C0399,Kabir Khan Stores 399,Large Retailer,Business Customer
+C0400,Dev Singh Stores 400,Wholesaler,Business Customer
+C0401,Meera Rao Stores 401,Wholesaler,Business Customer
+C0402,Ananya Khan Stores 402,Wholesaler,Business Customer
+C0403,Kiara Kapoor Stores 403,Large Retailer,Business Customer
+C0404,Arjun Mishra Stores 404,Small Retailer,Business Customer
+C0405,Meera Gupta Stores 405,Large Retailer,Business Customer
+C0406,Avni Singh Stores 406,Small Retailer,Business Customer
+C0407,Aditya Nair Stores 407,Small Retailer,Business Customer
+C0408,Kabir Kapoor Stores 408,Large Retailer,Business Customer
+C0409,Ananya Yadav Stores 409,Wholesaler,Business Customer
+C0410,Kiara Patel Stores 410,Supermarket,Business Customer
+C0411,Tara Bose Stores 411,Small Retailer,Business Customer
+C0412,Meera Khan Stores 412,Large Retailer,Business Customer
+C0413,Rohan Gupta Stores 413,Small Retailer,Business Customer
+C0414,Ishita Sharma Stores 414,Wholesaler,Business Customer
+C0415,Ishaan Patel Stores 415,Wholesaler,Business Customer
+C0416,Reyansh Patel Stores 416,Small Retailer,Business Customer
+C0417,Kabir Reddy Stores 417,Large Retailer,Business Customer
+C0418,Kiara Malhotra Stores 418,Small Retailer,Business Customer
+C0419,Ishaan Mishra Stores 419,Large Retailer,Business Customer
+C0420,Sana Gupta Stores 420,Large Retailer,Business Customer
+C0421,Aditya Rao Stores 421,Large Retailer,Business Customer
+C0422,Aarav Kapoor Stores 422,Small Retailer,Business Customer
+C0423,Ananya Mehta Stores 423,Wholesaler,Business Customer
+C0424,Meera Kapoor Stores 424,Small Retailer,Business Customer
+C0425,Kiara Das Stores 425,Small Retailer,Business Customer
+C0426,Aanya Gupta Stores 426,Small Retailer,Business Customer
+C0427,Kabir Bose Stores 427,Small Retailer,Business Customer
+C0428,Aarav Yadav Stores 428,Small Retailer,Business Customer
+C0429,Dev Kapoor Stores 429,Small Retailer,Business Customer
+C0430,Kabir Nair Stores 430,Wholesaler,Business Customer
+C0431,Kiara Mehta Stores 431,Wholesaler,Business Customer
+C0432,Sana Joshi Stores 432,Small Retailer,Business Customer
+C0433,Ishita Nair Stores 433,Large Retailer,Business Customer
+C0434,Aarav Rao Stores 434,Small Retailer,Business Customer
+C0435,Kiara Rao Stores 435,Wholesaler,Business Customer
+C0436,Diya Saxena Stores 436,Large Retailer,Business Customer
+C0437,Sana Sharma Stores 437,Small Retailer,Business Customer
+C0438,Kunal Saxena Stores 438,Small Retailer,Business Customer
+C0439,Meera Nair Stores 439,Large Retailer,Business Customer
+C0440,Kabir Das Stores 440,Supermarket,Business Customer
+C0441,Reyansh Mishra Stores 441,Small Retailer,Business Customer
+C0442,Vivaan Mehta Stores 442,Small Retailer,Business Customer
+C0443,Rohan Singh Stores 443,Supermarket,Business Customer
+C0444,Kunal Yadav Stores 444,Large Retailer,Business Customer
+C0445,Dev Khan Stores 445,Large Retailer,Business Customer
+C0446,Sana Patel Stores 446,Small Retailer,Business Customer
+C0447,Avni Malhotra Stores 447,Wholesaler,Business Customer
+C0448,Aarav Das Stores 448,Supermarket,Business Customer
+C0449,Ishaan Yadav Stores 449,Wholesaler,Business Customer
+C0450,Kabir Bose Stores 450,Large Retailer,Business Customer
+C0451,Kabir Gupta Stores 451,Wholesaler,Business Customer
+C0452,Dev Nair Stores 452,Small Retailer,Business Customer
+C0453,Tara Saxena Stores 453,Wholesaler,Business Customer
+C0454,Reyansh Nair Stores 454,Small Retailer,Business Customer
+C0455,Kiara Das Stores 455,Large Retailer,Business Customer
+C0456,Kabir Patel Stores 456,Wholesaler,Business Customer
+C0457,Tara Nair Stores 457,Supermarket,Business Customer
+C0458,Arjun Mishra Stores 458,Small Retailer,Business Customer
+C0459,Kunal Bose Stores 459,Small Retailer,Business Customer
+C0460,Ishaan Verma Stores 460,Wholesaler,Business Customer
+C0461,Ananya Nair Stores 461,Wholesaler,Business Customer
+C0462,Sana Singh Stores 462,Small Retailer,Business Customer
+C0463,Rohan Joshi Stores 463,Small Retailer,Business Customer
+C0464,Rohan Patel Stores 464,Small Retailer,Business Customer
+C0465,Aditya Patel Stores 465,Large Retailer,Business Customer
+C0466,Kunal Yadav Stores 466,Small Retailer,Business Customer
+C0467,Avni Khan Stores 467,Large Retailer,Business Customer
+C0468,Reyansh Joshi Stores 468,Small Retailer,Business Customer
+C0469,Dev Mishra Stores 469,Small Retailer,Business Customer
+C0470,Arjun Mehta Stores 470,Large Retailer,Business Customer
+C0471,Arjun Bose Stores 471,Wholesaler,Business Customer
+C0472,Meera Khan Stores 472,Supermarket,Business Customer
+C0473,Arjun Nair Stores 473,Large Retailer,Business Customer
+C0474,Kiara Das Stores 474,Small Retailer,Business Customer
+C0475,Ishita Patel Stores 475,Small Retailer,Business Customer
+C0476,Reyansh Bose Stores 476,Small Retailer,Business Customer
+C0477,Aanya Das Stores 477,Small Retailer,Business Customer
+C0478,Ananya Bose Stores 478,Small Retailer,Business Customer
+C0479,Diya Bose Stores 479,Wholesaler,Business Customer
+C0480,Ananya Joshi Stores 480,Large Retailer,Business Customer
+C0481,Myra Mehta Stores 481,Small Retailer,Business Customer
+C0482,Diya Rao Stores 482,Large Retailer,Business Customer
+C0483,Aditya Singh Stores 483,Wholesaler,Business Customer
+C0484,Arjun Singh Stores 484,Large Retailer,Business Customer
+C0485,Tara Verma Stores 485,Wholesaler,Business Customer
+C0486,Diya Reddy Stores 486,Small Retailer,Business Customer
+C0487,Vivaan Das Stores 487,Wholesaler,Business Customer
+C0488,Tara Kapoor Stores 488,Small Retailer,Business Customer
+C0489,Tara Kapoor Stores 489,Large Retailer,Business Customer
+C0490,Aarav Singh Stores 490,Supermarket,Business Customer
+C0491,Sana Malhotra Stores 491,Small Retailer,Business Customer
+C0492,Avni Gupta Stores 492,Supermarket,Business Customer
+C0493,Ananya Patel Stores 493,Large Retailer,Business Customer
+C0494,Reyansh Verma Stores 494,Small Retailer,Business Customer
+C0495,Meera Reddy Stores 495,Large Retailer,Business Customer
+C0496,Vivaan Mehta Stores 496,Wholesaler,Business Customer
+C0497,Avni Rao Stores 497,Small Retailer,Business Customer
+C0498,Ananya Mishra Stores 498,Supermarket,Business Customer
+C0499,Aanya Khan Stores 499,Small Retailer,Business Customer
+C0500,Kiara Khan Stores 500,Small Retailer,Business Customer
+C0501,Ishita Kapoor Stores 501,Large Retailer,Business Customer
+C0502,Diya Patel Stores 502,Large Retailer,Business Customer
+C0503,Ishita Singh Stores 503,Wholesaler,Business Customer
+C0504,Vivaan Bose Stores 504,Small Retailer,Business Customer
+C0505,Aarav Sharma Stores 505,Large Retailer,Business Customer
+C0506,Ishaan Bose Stores 506,Large Retailer,Business Customer
+C0507,Ishaan Khan Stores 507,Wholesaler,Business Customer
+C0508,Avni Reddy Stores 508,Large Retailer,Business Customer
+C0509,Ishaan Mehta Stores 509,Supermarket,Business Customer
+C0510,Reyansh Saxena Stores 510,Wholesaler,Business Customer
+C0511,Rohan Nair Stores 511,Large Retailer,Business Customer
+C0512,Ishita Nair Stores 512,Large Retailer,Business Customer
+C0513,Ishita Singh Stores 513,Large Retailer,Business Customer
+C0514,Reyansh Nair Stores 514,Large Retailer,Business Customer
+C0515,Ananya Bose Stores 515,Supermarket,Business Customer
+C0516,Reyansh Verma Stores 516,Large Retailer,Business Customer
+C0517,Sana Verma Stores 517,Wholesaler,Business Customer
+C0518,Ishita Das Stores 518,Large Retailer,Business Customer
+C0519,Dev Verma Stores 519,Wholesaler,Business Customer
+C0520,Aanya Gupta Stores 520,Supermarket,Business Customer
+C0521,Kiara Reddy Stores 521,Small Retailer,Business Customer
+C0522,Arjun Verma Stores 522,Small Retailer,Business Customer
+C0523,Aarav Patel Stores 523,Small Retailer,Business Customer
+C0524,Ishaan Saxena Stores 524,Large Retailer,Business Customer
+C0525,Aanya Reddy Stores 525,Supermarket,Business Customer
+C0526,Meera Nair Stores 526,Large Retailer,Business Customer
+C0527,Kunal Gupta Stores 527,Small Retailer,Business Customer
+C0528,Aarav Gupta Stores 528,Wholesaler,Business Customer
+C0529,Ishaan Verma Stores 529,Large Retailer,Business Customer
+C0530,Aditya Verma Stores 530,Small Retailer,Business Customer
+C0531,Tara Yadav Stores 531,Supermarket,Business Customer
+C0532,Aditya Rao Stores 532,Large Retailer,Business Customer
+C0533,Kunal Saxena Stores 533,Small Retailer,Business Customer
+C0534,Reyansh Kapoor Stores 534,Small Retailer,Business Customer
+C0535,Aarav Bose Stores 535,Large Retailer,Business Customer
+C0536,Diya Saxena Stores 536,Small Retailer,Business Customer
+C0537,Aanya Kapoor Stores 537,Small Retailer,Business Customer
+C0538,Rohan Saxena Stores 538,Wholesaler,Business Customer
+C0539,Aarav Sharma Stores 539,Small Retailer,Business Customer
+C0540,Kiara Verma Stores 540,Supermarket,Business Customer
+C0541,Aarav Rao Stores 541,Small Retailer,Business Customer
+C0542,Aarav Mehta Stores 542,Wholesaler,Business Customer
+C0543,Ishita Rao Stores 543,Small Retailer,Business Customer
+C0544,Aanya Yadav Stores 544,Small Retailer,Business Customer
+C0545,Sana Mishra Stores 545,Large Retailer,Business Customer
+C0546,Kiara Mishra Stores 546,Large Retailer,Business Customer
+C0547,Sana Verma Stores 547,Large Retailer,Business Customer
+C0548,Myra Singh Stores 548,Small Retailer,Business Customer
+C0549,Aarav Reddy Stores 549,Small Retailer,Business Customer
+C0550,Ishaan Yadav Stores 550,Large Retailer,Business Customer
+C0551,Meera Rao Stores 551,Small Retailer,Business Customer
+C0552,Kabir Kapoor Stores 552,Large Retailer,Business Customer
+C0553,Kiara Kapoor Stores 553,Small Retailer,Business Customer
+C0554,Aarav Mehta Stores 554,Supermarket,Business Customer
+C0555,Ishaan Joshi Stores 555,Small Retailer,Business Customer
+C0556,Meera Rao Stores 556,Supermarket,Business Customer
+C0557,Diya Mehta Stores 557,Wholesaler,Business Customer
+C0558,Aditya Reddy Stores 558,Large Retailer,Business Customer
+C0559,Tara Patel Stores 559,Small Retailer,Business Customer
+C0560,Tara Khan Stores 560,Supermarket,Business Customer
+C0561,Kiara Das Stores 561,Large Retailer,Business Customer
+C0562,Ishaan Bose Stores 562,Large Retailer,Business Customer
+C0563,Rohan Sharma Stores 563,Large Retailer,Business Customer
+C0564,Myra Nair Stores 564,Wholesaler,Business Customer
+C0565,Diya Nair Stores 565,Small Retailer,Business Customer
+C0566,Sana Patel Stores 566,Wholesaler,Business Customer
+C0567,Vivaan Sharma Stores 567,Small Retailer,Business Customer
+C0568,Dev Nair Stores 568,Large Retailer,Business Customer
+C0569,Vivaan Khan Stores 569,Large Retailer,Business Customer
+C0570,Dev Yadav Stores 570,Small Retailer,Business Customer
+C0571,Aditya Mishra Stores 571,Small Retailer,Business Customer
+C0572,Meera Sharma Stores 572,Wholesaler,Business Customer
+C0573,Sana Sharma Stores 573,Large Retailer,Business Customer
+C0574,Kabir Nair Stores 574,Wholesaler,Business Customer
+C0575,Ishaan Verma Stores 575,Large Retailer,Business Customer
+C0576,Kunal Bose Stores 576,Small Retailer,Business Customer
+C0577,Ishita Mishra Stores 577,Large Retailer,Business Customer
+C0578,Dev Saxena Stores 578,Large Retailer,Business Customer
+C0579,Aanya Khan Stores 579,Large Retailer,Business Customer
+C0580,Tara Sharma Stores 580,Small Retailer,Business Customer
+C0581,Kabir Gupta Stores 581,Large Retailer,Business Customer
+C0582,Vivaan Singh Stores 582,Large Retailer,Business Customer
+C0583,Meera Patel Stores 583,Wholesaler,Business Customer
+C0584,Vivaan Das Stores 584,Small Retailer,Business Customer
+C0585,Kunal Singh Stores 585,Small Retailer,Business Customer
+C0586,Aarav Reddy Stores 586,Small Retailer,Business Customer
+C0587,Ishaan Joshi Stores 587,Supermarket,Business Customer
+C0588,Meera Gupta Stores 588,Small Retailer,Business Customer
+C0589,Ishita Mehta Stores 589,Large Retailer,Business Customer
+C0590,Avni Gupta Stores 590,Small Retailer,Business Customer
+C0591,Sana Bose Stores 591,Large Retailer,Business Customer
+C0592,Avni Saxena Stores 592,Large Retailer,Business Customer
+C0593,Kabir Das Stores 593,Supermarket,Business Customer
+C0594,Kiara Rao Stores 594,Large Retailer,Business Customer
+C0595,Sana Malhotra Stores 595,Wholesaler,Business Customer
+C0596,Aarav Das Stores 596,Small Retailer,Business Customer
+C0597,Aarav Khan Stores 597,Small Retailer,Business Customer
+C0598,Tara Rao Stores 598,Large Retailer,Business Customer
+C0599,Vivaan Das Stores 599,Large Retailer,Business Customer
+C0600,Aarav Joshi Stores 600,Large Retailer,Business Customer
+C0601,Kunal Kapoor Stores 601,Wholesaler,Business Customer
+C0602,Ishaan Das Stores 602,Large Retailer,Business Customer
+C0603,Diya Joshi Stores 603,Large Retailer,Business Customer
+C0604,Aanya Mehta Stores 604,Small Retailer,Business Customer
+C0605,Aarav Khan Stores 605,Large Retailer,Business Customer
+C0606,Kunal Malhotra Stores 606,Wholesaler,Business Customer
+C0607,Aarav Rao Stores 607,Large Retailer,Business Customer
+C0608,Vivaan Saxena Stores 608,Small Retailer,Business Customer
+C0609,Aarav Joshi Stores 609,Large Retailer,Business Customer
+C0610,Avni Rao Stores 610,Small Retailer,Business Customer
+C0611,Meera Reddy Stores 611,Large Retailer,Business Customer
+C0612,Avni Sharma Stores 612,Wholesaler,Business Customer
+C0613,Avni Bose Stores 613,Supermarket,Business Customer
+C0614,Aarav Patel Stores 614,Wholesaler,Business Customer
+C0615,Tara Saxena Stores 615,Large Retailer,Business Customer
+C0616,Aarav Mehta Stores 616,Large Retailer,Business Customer
+C0617,Vivaan Patel Stores 617,Wholesaler,Business Customer
+C0618,Meera Patel Stores 618,Large Retailer,Business Customer
+C0619,Vivaan Kapoor Stores 619,Large Retailer,Business Customer
+C0620,Ishita Verma Stores 620,Large Retailer,Business Customer
+C0621,Kabir Das Stores 621,Small Retailer,Business Customer
+C0622,Ananya Sharma Stores 622,Wholesaler,Business Customer
+C0623,Arjun Yadav Stores 623,Wholesaler,Business Customer
+C0624,Diya Nair Stores 624,Large Retailer,Business Customer
+C0625,Ananya Bose Stores 625,Wholesaler,Business Customer
+C0626,Meera Kapoor Stores 626,Small Retailer,Business Customer
+C0627,Kabir Reddy Stores 627,Small Retailer,Business Customer
+C0628,Aanya Gupta Stores 628,Large Retailer,Business Customer
+C0629,Reyansh Malhotra Stores 629,Small Retailer,Business Customer
+C0630,Rohan Gupta Stores 630,Wholesaler,Business Customer
+C0631,Arjun Sharma Stores 631,Large Retailer,Business Customer
+C0632,Avni Rao Stores 632,Large Retailer,Business Customer
+C0633,Aanya Joshi Stores 633,Wholesaler,Business Customer
+C0634,Kunal Nair Stores 634,Large Retailer,Business Customer
+C0635,Meera Verma Stores 635,Small Retailer,Business Customer
+C0636,Reyansh Patel Stores 636,Supermarket,Business Customer
+C0637,Meera Kapoor Stores 637,Small Retailer,Business Customer
+C0638,Kabir Khan Stores 638,Small Retailer,Business Customer
+C0639,Kunal Mishra Stores 639,Large Retailer,Business Customer
+C0640,Kiara Patel Stores 640,Wholesaler,Business Customer
+C0641,Aanya Mehta Stores 641,Supermarket,Business Customer
+C0642,Aarav Patel Stores 642,Large Retailer,Business Customer
+C0643,Diya Mishra Stores 643,Wholesaler,Business Customer
+C0644,Myra Malhotra Stores 644,Small Retailer,Business Customer
+C0645,Ishita Saxena Stores 645,Wholesaler,Business Customer
+C0646,Arjun Saxena Stores 646,Small Retailer,Business Customer
+C0647,Ishita Reddy Stores 647,Large Retailer,Business Customer
+C0648,Rohan Verma Stores 648,Small Retailer,Business Customer
+C0649,Sana Verma Stores 649,Wholesaler,Business Customer
+C0650,Rohan Nair Stores 650,Small Retailer,Business Customer
+C0651,Tara Patel Stores 651,Small Retailer,Business Customer
+C0652,Myra Mehta Stores 652,Large Retailer,Business Customer
+C0653,Sana Sharma Stores 653,Small Retailer,Business Customer
+C0654,Avni Khan Stores 654,Wholesaler,Business Customer
+C0655,Diya Bose Stores 655,Small Retailer,Business Customer
+C0656,Meera Saxena Stores 656,Large Retailer,Business Customer
+C0657,Kabir Nair Stores 657,Small Retailer,Business Customer
+C0658,Reyansh Reddy Stores 658,Large Retailer,Business Customer
+C0659,Myra Mehta Stores 659,Small Retailer,Business Customer
+C0660,Arjun Rao Stores 660,Wholesaler,Business Customer
+C0661,Reyansh Singh Stores 661,Small Retailer,Business Customer
+C0662,Ishita Khan Stores 662,Wholesaler,Business Customer
+C0663,Ishaan Kapoor Stores 663,Large Retailer,Business Customer
+C0664,Arjun Mishra Stores 664,Wholesaler,Business Customer
+C0665,Aanya Mehta Stores 665,Large Retailer,Business Customer
+C0666,Vivaan Yadav Stores 666,Small Retailer,Business Customer
+C0667,Aarav Sharma Stores 667,Large Retailer,Business Customer
+C0668,Ishaan Nair Stores 668,Wholesaler,Business Customer
+C0669,Myra Gupta Stores 669,Large Retailer,Business Customer
+C0670,Aditya Kapoor Stores 670,Small Retailer,Business Customer
+C0671,Dev Malhotra Stores 671,Large Retailer,Business Customer
+C0672,Vivaan Patel Stores 672,Small Retailer,Business Customer
+C0673,Meera Mehta Stores 673,Small Retailer,Business Customer
+C0674,Vivaan Saxena Stores 674,Large Retailer,Business Customer
+C0675,Ishita Das Stores 675,Supermarket,Business Customer
+C0676,Ananya Nair Stores 676,Small Retailer,Business Customer
+C0677,Kunal Mishra Stores 677,Large Retailer,Business Customer
+C0678,Sana Mehta Stores 678,Large Retailer,Business Customer
+C0679,Aarav Khan Stores 679,Wholesaler,Business Customer
+C0680,Diya Nair Stores 680,Small Retailer,Business Customer
+C0681,Ishita Patel Stores 681,Large Retailer,Business Customer
+C0682,Kiara Mishra Stores 682,Wholesaler,Business Customer
+C0683,Ishita Bose Stores 683,Supermarket,Business Customer
+C0684,Rohan Mehta Stores 684,Large Retailer,Business Customer
+C0685,Rohan Singh Stores 685,Large Retailer,Business Customer
+C0686,Ananya Rao Stores 686,Large Retailer,Business Customer
+C0687,Myra Rao Stores 687,Large Retailer,Business Customer
+C0688,Reyansh Joshi Stores 688,Wholesaler,Business Customer
+C0689,Ishita Gupta Stores 689,Large Retailer,Business Customer
+C0690,Reyansh Joshi Stores 690,Large Retailer,Business Customer
+C0691,Tara Rao Stores 691,Large Retailer,Business Customer
+C0692,Kabir Nair Stores 692,Small Retailer,Business Customer
+C0693,Kiara Mishra Stores 693,Wholesaler,Business Customer
+C0694,Tara Joshi Stores 694,Large Retailer,Business Customer
+C0695,Aarav Malhotra Stores 695,Large Retailer,Business Customer
+C0696,Rohan Sharma Stores 696,Small Retailer,Business Customer
+C0697,Dev Singh Stores 697,Wholesaler,Business Customer
+C0698,Sana Sharma Stores 698,Small Retailer,Business Customer
+C0699,Ishaan Bose Stores 699,Small Retailer,Business Customer
+C0700,Ananya Malhotra Stores 700,Large Retailer,Business Customer
+C0701,Arjun Mehta Stores 701,Small Retailer,Business Customer
+C0702,Ananya Rao Stores 702,Small Retailer,Business Customer
+C0703,Sana Das Stores 703,Small Retailer,Business Customer
+C0704,Meera Bose Stores 704,Small Retailer,Business Customer
+C0705,Kunal Bose Stores 705,Small Retailer,Business Customer
+C0706,Vivaan Bose Stores 706,Small Retailer,Business Customer
+C0707,Tara Rao Stores 707,Small Retailer,Business Customer
+C0708,Myra Singh Stores 708,Wholesaler,Business Customer
+C0709,Sana Khan Stores 709,Large Retailer,Business Customer
+C0710,Rohan Patel Stores 710,Wholesaler,Business Customer
+C0711,Ananya Kapoor Stores 711,Large Retailer,Business Customer
+C0712,Vivaan Mishra Stores 712,Wholesaler,Business Customer
+C0713,Aditya Verma Stores 713,Small Retailer,Business Customer
+C0714,Kunal Saxena Stores 714,Small Retailer,Business Customer
+C0715,Arjun Kapoor Stores 715,Small Retailer,Business Customer
+C0716,Ishita Khan Stores 716,Large Retailer,Business Customer
+C0717,Meera Verma Stores 717,Wholesaler,Business Customer
+C0718,Kunal Yadav Stores 718,Wholesaler,Business Customer
+C0719,Kiara Gupta Stores 719,Small Retailer,Business Customer
+C0720,Ishita Sharma Stores 720,Wholesaler,Business Customer
+C0721,Ishita Das Stores 721,Large Retailer,Business Customer
+C0722,Dev Kapoor Stores 722,Small Retailer,Business Customer
+C0723,Reyansh Mehta Stores 723,Small Retailer,Business Customer
+C0724,Diya Bose Stores 724,Small Retailer,Business Customer
+C0725,Aditya Mehta Stores 725,Small Retailer,Business Customer
+C0726,Aarav Verma Stores 726,Wholesaler,Business Customer
+C0727,Ananya Rao Stores 727,Small Retailer,Business Customer
+C0728,Aditya Gupta Stores 728,Small Retailer,Business Customer
+C0729,Myra Saxena Stores 729,Small Retailer,Business Customer
+C0730,Aanya Saxena Stores 730,Small Retailer,Business Customer
+C0731,Kiara Malhotra Stores 731,Small Retailer,Business Customer
+C0732,Kiara Malhotra Stores 732,Supermarket,Business Customer
+C0733,Diya Sharma Stores 733,Supermarket,Business Customer
+C0734,Sana Das Stores 734,Large Retailer,Business Customer
+C0735,Kunal Bose Stores 735,Large Retailer,Business Customer
+C0736,Kunal Verma Stores 736,Large Retailer,Business Customer
+C0737,Reyansh Rao Stores 737,Small Retailer,Business Customer
+C0738,Ishaan Singh Stores 738,Large Retailer,Business Customer
+C0739,Aarav Nair Stores 739,Small Retailer,Business Customer
+C0740,Kiara Khan Stores 740,Large Retailer,Business Customer
+C0741,Meera Patel Stores 741,Large Retailer,Business Customer
+C0742,Arjun Verma Stores 742,Supermarket,Business Customer
+C0743,Kunal Verma Stores 743,Supermarket,Business Customer
+C0744,Vivaan Kapoor Stores 744,Small Retailer,Business Customer
+C0745,Ananya Sharma Stores 745,Wholesaler,Business Customer
+C0746,Ananya Khan Stores 746,Small Retailer,Business Customer
+C0747,Diya Singh Stores 747,Small Retailer,Business Customer
+C0748,Aditya Kapoor Stores 748,Small Retailer,Business Customer
+C0749,Ananya Mishra Stores 749,Wholesaler,Business Customer
+C0750,Ananya Saxena Stores 750,Small Retailer,Business Customer
+C0751,Diya Singh Stores 751,Supermarket,Business Customer
+C0752,Arjun Bose Stores 752,Small Retailer,Business Customer
+C0753,Kabir Reddy Stores 753,Wholesaler,Business Customer
+C0754,Aarav Sharma Stores 754,Wholesaler,Business Customer
+C0755,Avni Saxena Stores 755,Large Retailer,Business Customer
+C0756,Arjun Singh Stores 756,Wholesaler,Business Customer
+C0757,Tara Yadav Stores 757,Wholesaler,Business Customer
+C0758,Myra Kapoor Stores 758,Small Retailer,Business Customer
+C0759,Meera Rao Stores 759,Wholesaler,Business Customer
+C0760,Meera Sharma Stores 760,Supermarket,Business Customer
+C0761,Vivaan Reddy Stores 761,Supermarket,Business Customer
+C0762,Ishaan Patel Stores 762,Small Retailer,Business Customer
+C0763,Vivaan Patel Stores 763,Small Retailer,Business Customer
+C0764,Kiara Khan Stores 764,Large Retailer,Business Customer
+C0765,Diya Verma Stores 765,Large Retailer,Business Customer
+C0766,Ishita Singh Stores 766,Small Retailer,Business Customer
+C0767,Reyansh Gupta Stores 767,Small Retailer,Business Customer
+C0768,Reyansh Joshi Stores 768,Large Retailer,Business Customer
+C0769,Rohan Rao Stores 769,Large Retailer,Business Customer
+C0770,Kunal Joshi Stores 770,Wholesaler,Business Customer
+C0771,Kabir Gupta Stores 771,Wholesaler,Business Customer
+C0772,Ishita Nair Stores 772,Small Retailer,Business Customer
+C0773,Ananya Patel Stores 773,Large Retailer,Business Customer
+C0774,Kabir Verma Stores 774,Small Retailer,Business Customer
+C0775,Tara Sharma Stores 775,Small Retailer,Business Customer
+C0776,Aanya Kapoor Stores 776,Wholesaler,Business Customer
+C0777,Sana Rao Stores 777,Wholesaler,Business Customer
+C0778,Ananya Verma Stores 778,Small Retailer,Business Customer
+C0779,Dev Kapoor Stores 779,Supermarket,Business Customer
+C0780,Ishaan Singh Stores 780,Small Retailer,Business Customer
+C0781,Dev Singh Stores 781,Small Retailer,Business Customer
+C0782,Aanya Nair Stores 782,Large Retailer,Business Customer
+C0783,Vivaan Verma Stores 783,Wholesaler,Business Customer
+C0784,Diya Saxena Stores 784,Small Retailer,Business Customer
+C0785,Sana Mehta Stores 785,Small Retailer,Business Customer
+C0786,Kunal Khan Stores 786,Large Retailer,Business Customer
+C0787,Kiara Malhotra Stores 787,Large Retailer,Business Customer
+C0788,Kiara Kapoor Stores 788,Small Retailer,Business Customer
+C0789,Myra Bose Stores 789,Wholesaler,Business Customer
+C0790,Ishaan Das Stores 790,Small Retailer,Business Customer
+C0791,Ishita Nair Stores 791,Large Retailer,Business Customer
+C0792,Aarav Mishra Stores 792,Wholesaler,Business Customer
+C0793,Tara Sharma Stores 793,Small Retailer,Business Customer
+C0794,Avni Mishra Stores 794,Large Retailer,Business Customer
+C0795,Reyansh Verma Stores 795,Small Retailer,Business Customer
+C0796,Myra Singh Stores 796,Small Retailer,Business Customer
+C0797,Arjun Yadav Stores 797,Small Retailer,Business Customer
+C0798,Tara Saxena Stores 798,Small Retailer,Business Customer
+C0799,Vivaan Gupta Stores 799,Small Retailer,Business Customer
+C0800,Myra Mehta Stores 800,Supermarket,Business Customer
+C0801,Sana Rao Stores 801,Small Retailer,Business Customer
+C0802,Rohan Bose Stores 802,Large Retailer,Business Customer
+C0803,Meera Nair Stores 803,Small Retailer,Business Customer
+C0804,Tara Mishra Stores 804,Large Retailer,Business Customer
+C0805,Kabir Mishra Stores 805,Small Retailer,Business Customer
+C0806,Rohan Singh Stores 806,Large Retailer,Business Customer
+C0807,Avni Malhotra Stores 807,Small Retailer,Business Customer
+C0808,Ananya Joshi Stores 808,Wholesaler,Business Customer
+C0809,Reyansh Rao Stores 809,Small Retailer,Business Customer
+C0810,Kabir Yadav Stores 810,Large Retailer,Business Customer
+C0811,Kunal Saxena Stores 811,Wholesaler,Business Customer
+C0812,Meera Mehta Stores 812,Large Retailer,Business Customer
+C0813,Avni Mehta Stores 813,Wholesaler,Business Customer
+C0814,Myra Mishra Stores 814,Large Retailer,Business Customer
+C0815,Aarav Kapoor Stores 815,Small Retailer,Business Customer
+C0816,Dev Mishra Stores 816,Small Retailer,Business Customer
+C0817,Myra Gupta Stores 817,Small Retailer,Business Customer
+C0818,Vivaan Mehta Stores 818,Wholesaler,Business Customer
+C0819,Ishaan Rao Stores 819,Large Retailer,Business Customer
+C0820,Tara Sharma Stores 820,Supermarket,Business Customer
+C0821,Arjun Mishra Stores 821,Large Retailer,Business Customer
+C0822,Arjun Das Stores 822,Large Retailer,Business Customer
+C0823,Kiara Gupta Stores 823,Small Retailer,Business Customer
+C0824,Sana Verma Stores 824,Large Retailer,Business Customer
+C0825,Aanya Khan Stores 825,Wholesaler,Business Customer
+C0826,Arjun Mehta Stores 826,Large Retailer,Business Customer
+C0827,Aarav Yadav Stores 827,Small Retailer,Business Customer
+C0828,Kiara Mehta Stores 828,Large Retailer,Business Customer
+C0829,Vivaan Bose Stores 829,Small Retailer,Business Customer
+C0830,Kabir Patel Stores 830,Small Retailer,Business Customer
+C0831,Aanya Mehta Stores 831,Wholesaler,Business Customer
+C0832,Tara Malhotra Stores 832,Wholesaler,Business Customer
+C0833,Diya Singh Stores 833,Small Retailer,Business Customer
+C0834,Aarav Kapoor Stores 834,Small Retailer,Business Customer
+C0835,Kabir Mehta Stores 835,Large Retailer,Business Customer
+C0836,Kiara Das Stores 836,Large Retailer,Business Customer
+C0837,Aditya Malhotra Stores 837,Small Retailer,Business Customer
+C0838,Diya Das Stores 838,Small Retailer,Business Customer
+C0839,Aditya Das Stores 839,Supermarket,Business Customer
+C0840,Rohan Das Stores 840,Large Retailer,Business Customer
+C0841,Reyansh Bose Stores 841,Large Retailer,Business Customer
+C0842,Avni Nair Stores 842,Wholesaler,Business Customer
+C0843,Vivaan Khan Stores 843,Small Retailer,Business Customer
+C0844,Ananya Sharma Stores 844,Wholesaler,Business Customer
+C0845,Avni Patel Stores 845,Small Retailer,Business Customer
+C0846,Myra Nair Stores 846,Small Retailer,Business Customer
+C0847,Sana Yadav Stores 847,Wholesaler,Business Customer
+C0848,Avni Yadav Stores 848,Wholesaler,Business Customer
+C0849,Arjun Mishra Stores 849,Large Retailer,Business Customer
+C0850,Diya Singh Stores 850,Wholesaler,Business Customer
+C0851,Ananya Patel Stores 851,Small Retailer,Business Customer
+C0852,Myra Das Stores 852,Supermarket,Business Customer
+C0853,Rohan Rao Stores 853,Wholesaler,Business Customer
+C0854,Aarav Khan Stores 854,Small Retailer,Business Customer
+C0855,Kabir Khan Stores 855,Small Retailer,Business Customer
+C0856,Reyansh Saxena Stores 856,Large Retailer,Business Customer
+C0857,Avni Mishra Stores 857,Supermarket,Business Customer
+C0858,Vivaan Joshi Stores 858,Small Retailer,Business Customer
+C0859,Sana Verma Stores 859,Small Retailer,Business Customer
+C0860,Vivaan Nair Stores 860,Small Retailer,Business Customer
+C0861,Aditya Sharma Stores 861,Large Retailer,Business Customer
+C0862,Ananya Patel Stores 862,Large Retailer,Business Customer
+C0863,Tara Kapoor Stores 863,Small Retailer,Business Customer
+C0864,Vivaan Bose Stores 864,Small Retailer,Business Customer
+C0865,Kiara Verma Stores 865,Large Retailer,Business Customer
+C0866,Kiara Saxena Stores 866,Large Retailer,Business Customer
+C0867,Myra Singh Stores 867,Large Retailer,Business Customer
+C0868,Aditya Rao Stores 868,Wholesaler,Business Customer
+C0869,Diya Patel Stores 869,Large Retailer,Business Customer
+C0870,Dev Gupta Stores 870,Wholesaler,Business Customer
+C0871,Ishaan Reddy Stores 871,Large Retailer,Business Customer
+C0872,Kunal Joshi Stores 872,Wholesaler,Business Customer
+C0873,Kabir Das Stores 873,Large Retailer,Business Customer
+C0874,Kabir Reddy Stores 874,Small Retailer,Business Customer
+C0875,Tara Nair Stores 875,Small Retailer,Business Customer
+C0876,Dev Nair Stores 876,Wholesaler,Business Customer
+C0877,Meera Kapoor Stores 877,Small Retailer,Business Customer
+C0878,Avni Mehta Stores 878,Small Retailer,Business Customer
+C0879,Kunal Gupta Stores 879,Large Retailer,Business Customer
+C0880,Myra Yadav Stores 880,Small Retailer,Business Customer
+C0881,Aarav Saxena Stores 881,Small Retailer,Business Customer
+C0882,Ananya Patel Stores 882,Small Retailer,Business Customer
+C0883,Diya Mishra Stores 883,Wholesaler,Business Customer
+C0884,Ananya Yadav Stores 884,Wholesaler,Business Customer
+C0885,Diya Khan Stores 885,Wholesaler,Business Customer
+C0886,Arjun Bose Stores 886,Large Retailer,Business Customer
+C0887,Kabir Sharma Stores 887,Small Retailer,Business Customer
+C0888,Aanya Sharma Stores 888,Small Retailer,Business Customer
+C0889,Arjun Verma Stores 889,Small Retailer,Business Customer
+C0890,Avni Khan Stores 890,Large Retailer,Business Customer
+C0891,Arjun Kapoor Stores 891,Wholesaler,Business Customer
+C0892,Tara Kapoor Stores 892,Large Retailer,Business Customer
+C0893,Kunal Nair Stores 893,Small Retailer,Business Customer
+C0894,Ishaan Mehta Stores 894,Large Retailer,Business Customer
+C0895,Myra Das Stores 895,Large Retailer,Business Customer
+C0896,Avni Khan Stores 896,Small Retailer,Business Customer
+C0897,Meera Mehta Stores 897,Small Retailer,Business Customer
+C0898,Myra Kapoor Stores 898,Small Retailer,Business Customer
+C0899,Dev Yadav Stores 899,Wholesaler,Business Customer
+C0900,Sana Rao Stores 900,Small Retailer,Business Customer
+C0901,Diya Malhotra Stores 901,Large Retailer,Business Customer
+C0902,Ishita Reddy Stores 902,Large Retailer,Business Customer
+C0903,Ishaan Nair Stores 903,Small Retailer,Business Customer
+C0904,Kiara Mehta Stores 904,Small Retailer,Business Customer
+C0905,Kabir Sharma Stores 905,Small Retailer,Business Customer
+C0906,Dev Singh Stores 906,Supermarket,Business Customer
+C0907,Diya Sharma Stores 907,Large Retailer,Business Customer
+C0908,Dev Khan Stores 908,Wholesaler,Business Customer
+C0909,Ishita Das Stores 909,Large Retailer,Business Customer
+C0910,Aditya Das Stores 910,Small Retailer,Business Customer
+C0911,Kiara Joshi Stores 911,Wholesaler,Business Customer
+C0912,Rohan Khan Stores 912,Small Retailer,Business Customer
+C0913,Ananya Joshi Stores 913,Large Retailer,Business Customer
+C0914,Myra Gupta Stores 914,Large Retailer,Business Customer
+C0915,Myra Verma Stores 915,Large Retailer,Business Customer
+C0916,Myra Nair Stores 916,Wholesaler,Business Customer
+C0917,Aarav Khan Stores 917,Small Retailer,Business Customer
+C0918,Diya Saxena Stores 918,Small Retailer,Business Customer
+C0919,Avni Malhotra Stores 919,Wholesaler,Business Customer
+C0920,Avni Sharma Stores 920,Small Retailer,Business Customer
+C0921,Aarav Yadav Stores 921,Large Retailer,Business Customer
+C0922,Rohan Bose Stores 922,Small Retailer,Business Customer
+C0923,Meera Khan Stores 923,Large Retailer,Business Customer
+C0924,Aanya Singh Stores 924,Wholesaler,Business Customer
+C0925,Meera Nair Stores 925,Wholesaler,Business Customer
+C0926,Dev Yadav Stores 926,Wholesaler,Business Customer
+C0927,Ananya Saxena Stores 927,Small Retailer,Business Customer
+C0928,Aarav Rao Stores 928,Wholesaler,Business Customer
+C0929,Aditya Mishra Stores 929,Small Retailer,Business Customer
+C0930,Aditya Gupta Stores 930,Small Retailer,Business Customer
+C0931,Avni Saxena Stores 931,Small Retailer,Business Customer
+C0932,Aarav Mishra Stores 932,Small Retailer,Business Customer
+C0933,Arjun Das Stores 933,Supermarket,Business Customer
+C0934,Kabir Sharma Stores 934,Small Retailer,Business Customer
+C0935,Aditya Rao Stores 935,Wholesaler,Business Customer
+C0936,Ishaan Yadav Stores 936,Small Retailer,Business Customer
+C0937,Ananya Mishra Stores 937,Wholesaler,Business Customer
+C0938,Dev Reddy Stores 938,Large Retailer,Business Customer
+C0939,Vivaan Mehta Stores 939,Small Retailer,Business Customer
+C0940,Kiara Mehta Stores 940,Small Retailer,Business Customer
+C0941,Ishita Yadav Stores 941,Large Retailer,Business Customer
+C0942,Meera Rao Stores 942,Small Retailer,Business Customer
+C0943,Aanya Das Stores 943,Small Retailer,Business Customer
+C0944,Dev Sharma Stores 944,Small Retailer,Business Customer
+C0945,Arjun Mishra Stores 945,Small Retailer,Business Customer
+C0946,Myra Verma Stores 946,Wholesaler,Business Customer
+C0947,Sana Khan Stores 947,Large Retailer,Business Customer
+C0948,Meera Sharma Stores 948,Large Retailer,Business Customer
+C0949,Aditya Rao Stores 949,Small Retailer,Business Customer
+C0950,Ishaan Verma Stores 950,Supermarket,Business Customer
+C0951,Reyansh Reddy Stores 951,Large Retailer,Business Customer
+C0952,Arjun Sharma Stores 952,Large Retailer,Business Customer
+C0953,Aarav Joshi Stores 953,Small Retailer,Business Customer
+C0954,Kabir Reddy Stores 954,Small Retailer,Business Customer
+C0955,Kabir Malhotra Stores 955,Wholesaler,Business Customer
+C0956,Dev Sharma Stores 956,Wholesaler,Business Customer
+C0957,Ishaan Singh Stores 957,Wholesaler,Business Customer
+C0958,Ananya Sharma Stores 958,Wholesaler,Business Customer
+C0959,Aanya Saxena Stores 959,Small Retailer,Business Customer
+C0960,Aanya Yadav Stores 960,Small Retailer,Business Customer
+C0961,Ishita Verma Stores 961,Small Retailer,Business Customer
+C0962,Reyansh Das Stores 962,Large Retailer,Business Customer
+C0963,Meera Mehta Stores 963,Small Retailer,Business Customer
+C0964,Kiara Verma Stores 964,Small Retailer,Business Customer
+C0965,Vivaan Patel Stores 965,Small Retailer,Business Customer
+C0966,Tara Saxena Stores 966,Wholesaler,Business Customer
+C0967,Vivaan Joshi Stores 967,Small Retailer,Business Customer
+C0968,Ishita Sharma Stores 968,Small Retailer,Business Customer
+C0969,Kunal Reddy Stores 969,Wholesaler,Business Customer
+C0970,Kabir Singh Stores 970,Wholesaler,Business Customer
+C0971,Kiara Rao Stores 971,Small Retailer,Business Customer
+C0972,Vivaan Reddy Stores 972,Supermarket,Business Customer
+C0973,Kabir Verma Stores 973,Small Retailer,Business Customer
+C0974,Kabir Reddy Stores 974,Large Retailer,Business Customer
+C0975,Avni Reddy Stores 975,Wholesaler,Business Customer
+C0976,Dev Singh Stores 976,Large Retailer,Business Customer
+C0977,Meera Joshi Stores 977,Wholesaler,Business Customer
+C0978,Arjun Kapoor Stores 978,Small Retailer,Business Customer
+C0979,Ishita Saxena Stores 979,Small Retailer,Business Customer
+C0980,Ananya Gupta Stores 980,Supermarket,Business Customer
+C0981,Ananya Saxena Stores 981,Supermarket,Business Customer
+C0982,Sana Gupta Stores 982,Small Retailer,Business Customer
+C0983,Ananya Mehta Stores 983,Small Retailer,Business Customer
+C0984,Reyansh Joshi Stores 984,Small Retailer,Business Customer
+C0985,Avni Bose Stores 985,Large Retailer,Business Customer
+C0986,Sana Verma Stores 986,Small Retailer,Business Customer
+C0987,Kunal Das Stores 987,Large Retailer,Business Customer
+C0988,Ishita Khan Stores 988,Supermarket,Business Customer
+C0989,Aarav Bose Stores 989,Wholesaler,Business Customer
+C0990,Ishaan Gupta Stores 990,Small Retailer,Business Customer
+C0991,Myra Nair Stores 991,Small Retailer,Business Customer
+C0992,Arjun Yadav Stores 992,Small Retailer,Business Customer
+C0993,Dev Malhotra Stores 993,Large Retailer,Business Customer
+C0994,Meera Singh Stores 994,Small Retailer,Business Customer
+C0995,Dev Saxena Stores 995,Wholesaler,Business Customer
+C0996,Kabir Nair Stores 996,Small Retailer,Business Customer
+C0997,Aarav Das Stores 997,Large Retailer,Business Customer
+C0998,Reyansh Das Stores 998,Wholesaler,Business Customer
+C0999,Myra Verma Stores 999,Small Retailer,Business Customer
+C1000,Diya Joshi Stores 1000,Wholesaler,Business Customer

@@ -1,0 +1,23 @@
+{
+  "Raw order rows": 30060,
+  "Exact duplicate rows": 60,
+  "Rows after exact duplicate removal": 30000,
+  "Unique orders": 18000,
+  "Unique order lines after deduplication": 30000,
+  "Gross sales": 47450732.16,
+  "Discount amount": 4580888.2308,
+  "Net sales before returns": 42869843.92919999,
+  "Estimated return value": 1322844.3552,
+  "Estimated net sales after returns": 41546999.574,
+  "Estimated COGS after returns": 29289407.0,
+  "Estimated profit": 12257592.574000001,
+  "Estimated profit margin": 0.2950295496590028,
+  "Units ordered": 480584.0,
+  "Units returned": 15132.0,
+  "Unit return rate": 0.0314866911923826,
+  "Average line discount": 0.096653,
+  "data_notice": "Synthetic portfolio data; amounts are unspecified currency units; profit is estimated.",
+  "validation_pass_count": 24,
+  "validation_review_count": 0,
+  "validation_fail_count": 0
+}

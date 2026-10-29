@@ -1,0 +1,6 @@
+return_reason,returned_lines,returned_units,estimated_return_value,distinct_orders
+Damaged in Transit,522,4550,416366.3981,517
+Wrong Item,370,3273,275043.92339999997,369
+Quality Issue,379,3079,270062.3512,376
+Expiry / Near Expiry,307,2554,214265.993,307
+Customer Preference,233,1676,147105.6895,232
